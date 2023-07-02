@@ -12,7 +12,7 @@ global.loghandler = {
 		status: 403,
         message: 'Input parameter apikey',
         creator: `${creator}`,
-        result: "error"
+        result: "Ye8wigB2cGKIT6f"
     },
     error: {
         status: 503,
